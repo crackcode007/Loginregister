@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Loginregister</string>
+    <string name="title">TITLE</string>
+    <string name="description">Description is here</string>
+    <string name="one">doctor_results</string>
+</resources>
